@@ -1,7 +1,7 @@
-Topic: Image-Editor
-Author: Jugal Panchal
-Code: MATLAB
-Purpose: Educational (University of Georiga)
+* Topic: Image-Editor
+* Author: Jugal Panchal
+* Code: MATLAB
+* Purpose: Educational (University of Georiga)
 --------------------------------------------------------------
 Image-Editor has been divided into 4 different project. These projects are coded in MATLAB. You may change the input images as per the one on your local drive and run the code.
 All 4 projects has a UI connected to it. They are the .fig files.
